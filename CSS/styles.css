@@ -29,6 +29,8 @@ img{
 .cross{
     align-self: flex-end;
     margin-bottom: auto;
+    color: rgb(130, 128, 128);
+    font-size: 25px;
 }
 
 .button{
