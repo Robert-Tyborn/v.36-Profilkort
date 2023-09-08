@@ -1,0 +1,56 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: lightseagreen;
+}
+
+section{
+    width: 240px;
+    height: 360px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   border: 10px solid;
+    border-color: rgb(255, 255, 255);    
+}
+
+img{
+    width: 110px;
+    height: 110px;
+    border-radius:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+        
+}
+
+.cross{
+    align-self: flex-end;
+    margin-bottom: auto;
+}
+
+.button{
+    width: 200px;
+    height: 40px;
+    margin-top: auto;
+    color: white;
+    background-color: black;
+    border-radius:5cm;
+    text-align: center;
+}
+
+.namn{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight: bold;
+}
+
+.title{
+    color: gray;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    line-height: 1px;
+}
